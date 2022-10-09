@@ -1,10 +1,10 @@
-<p align="center"><img src="https://github.com/cscodershub/Hacktoberfest-2021/blob/main/HACKTOBER%20FEST%202021.png"></p>
-<h1 align="center"> Hacktoberfest 2021 </h1>
+<p align="center"><img src="https://github.com/cscodershub/Hacktoberfest-2021/blob/main/HACKTOBER%20FEST%202022.png"></p>
+<h1 align="center"> Hacktoberfest 2022 </h1>
 
 ***
 
-
-## Hi there 👋 Welcome to the Hacktoberfest 2021 Repository.
+## Hacktoberfest4.0
+## Hi there 👋 Welcome to the Hacktoberfest 2022 Repository.
 
 ## Event details :
 
@@ -22,7 +22,7 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 
 <h3 align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
-        Link To HacktoberFest 2021
+        Link To HacktoberFest 2022
     </a>
 </h3>
 
