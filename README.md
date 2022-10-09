@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/cscodershub/Hacktoberfest-2021/blob/main/HACKTOBER%20FEST%202022.png"></p>
+<p align="center"><img src="https://github.com/cscodershub/Hacktoberfest-2021/blob/main/HACKTOBER%20FEST%202021.png"></p>
 <h1 align="center"> Hacktoberfest 2022 </h1>
 
 ***
